@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://szentmik.github.io/four-card-feature-section-master/)
 
 ## My process
 
